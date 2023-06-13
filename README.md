@@ -15,6 +15,6 @@ PWRI’s joint research with other organization related OPERA
 |5| 酒井重工業株式会社 |
 |6| 早稲田大学岩田研究室 |
 |7| 日立建機株式会社 |
-|8| 株式会社フジタ<br>DeepX |
+|8| 株式会社フジタ<br>株式会社DeepX |
 |9| 清水建設株式会社 |
 |10| 株式会社加藤組<br>ORAM株式会社 |
