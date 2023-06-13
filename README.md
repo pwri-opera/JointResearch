@@ -7,7 +7,7 @@ PWRI’s joint research with other organization related OPERA
 
 ### 共同研究者（順不同）
 | グループID | 参画者名 | 
-| ----  |  ---- | 
+| :----:  |  ---- | 
 |1| ハイテクインター株式会社<br>株式会社ジツタ中国<br>株式会社中電工 | 
 |2| ARAV株式会社 |
 |3| 株式会社IHI |
